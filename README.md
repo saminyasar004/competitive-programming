@@ -26,3 +26,5 @@ Here I tried to solve some problem from [Leetcode](https://leetcode.com/), [Code
 1. **Sock Pair (To be submit)**
 1. **First Non Consecutive Number (To be submit)**
 1. **Alternating Case**
+1. **Credit Card Mask**
+1. **Removing Elements**
