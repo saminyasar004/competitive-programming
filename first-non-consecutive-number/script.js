@@ -6,19 +6,16 @@
  */
 
 function firstNonConsecutive(arr) {
-  let numsArray = arr.map((el) => parseInt(el)).sort((a, b) => a - b);
-  let result = 0;
-  if (numsArray.length < 2) {
-    result = 0;
-  } else {
-    numsArray.forEach((el, ind) => {
-      if (ind + 1 !== numsArray.length && el + 1 !== numsArray[ind + 1]) {
-        result = numsArray[ind + 1];
-      }
-    });
+  for (let i = 0; i < arr.length - 1; i++) {
+    let currentEl = arr[i];
+    let nextEl = arr[i + 1];
+    if (currentEl + 1 !== nextEl) {
+      return nextEl;
+    }
   }
-  result = result === 0 ? null : result;
-  return result;
+  return null;
 }
 
-console.log(firstNonConsecutive([-5, -4, -3, -2, -1, 0, 2, 4]));
+console.log(firstNonConsecutive([-4, -3, -2, 0, 1, 4, 5]));
+
+// status: Uncomplete

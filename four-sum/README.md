@@ -6,14 +6,18 @@ Given an array `nums` of n integers and an integer `target`, are there elements 
 
 ## **Example 1:**
 
-```
-Input: nums = [1,0,-1,0,-2,2], target = 0
-Output: [[-2,-1,1,2],[-2,0,0,2],[-1,0,0,1]]
+```javascript
+Input: (nums = [1, 0, -1, 0, -2, 2]), (target = 0);
+Output: [
+  [-2, -1, 1, 2],
+  [-2, 0, 0, 2],
+  [-1, 0, 0, 1],
+];
 ```
 
 ### **Example 2:**
 
-```
-Input: nums = [], target = 0
-Output: []
+```javascript
+Input: (nums = []), (target = 0);
+Output: [];
 ```

@@ -6,7 +6,7 @@ A mapping of digit to letters (just like on the telephone buttons) is given belo
 
 ## Key Map
 
-```
+```javascript
 2 -> "abc"
 3 -> "def"
 4 -> "ghi"
@@ -19,21 +19,21 @@ A mapping of digit to letters (just like on the telephone buttons) is given belo
 
 ## Example 1:
 
-```
-Input: digits = "23"
-Output: ["ad","ae","af","bd","be","bf","cd","ce","cf"]
+```javascript
+Input: digits = "23";
+Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"];
 ```
 
 ## Example 2:
 
-```
-Input: digits = ""
-Output: []
+```javascript
+Input: digits = "";
+Output: [];
 ```
 
 ## Example 3:
 
-```
-Input: digits = "2"
-Output: ["a","b","c"]
+```javascript
+Input: digits = "2";
+Output: ["a", "b", "c"];
 ```

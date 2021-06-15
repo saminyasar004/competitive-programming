@@ -1,6 +1,6 @@
 /*
  * Title: Repeted String
- * Description: problem solving from hackerrank.com
+ * Description: https://www.hackerrank.com/challenges/repeated-string/problem
  * Author: Samin Yasar
  * Date: 18/April/2021
  * Variable name type: variableName

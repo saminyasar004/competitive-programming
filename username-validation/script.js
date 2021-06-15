@@ -1,6 +1,6 @@
 /*
  * Title: Username Validation
- * Description: Problem solving from Coderbyte.com
+ * Description: https://coderbyte.com/results/saminyasar04:Codeland%20Username%20Validation:JavaScript
  * Author: Samin Yasar
  * Date: 04/April/2021
  * Variable name type: variableName

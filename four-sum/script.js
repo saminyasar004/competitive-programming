@@ -1,6 +1,6 @@
 /*
  * Title: Four sum
- * Description: leetcode problem solution
+ * Description: https://leetcode.com/problems/4sum/
  * Author: Samin Yasar
  * Date: 07/April/2021
  */

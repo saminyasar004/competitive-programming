@@ -1,6 +1,6 @@
 /*
  * Title: Parking lot
- * Description: porblem from hackerrank.com
+ * Description:
  * Author: Samin Yasar
  * Date: 08/April/2021
  * Variable name type: variableName

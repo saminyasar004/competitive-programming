@@ -1,6 +1,6 @@
 /*
  * Title: FizzBuzz
- * Description: The problem from HackerRank.com
+ * Description: https://www.hackerrank.com/challenges/fizzbuzz/problem
  * Author: Samin Yasar
  * Date: 04/April/2021
  */

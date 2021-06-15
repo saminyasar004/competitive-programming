@@ -1,6 +1,6 @@
 /*
- * Title: letter of a phone
- * Description: problem solving from leetcode.com
+ * Title: Letter of a phone
+ * Description: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
  * Author: Samin Yasar
  * Date: 11/April/2021
  * Variable name type: variableName

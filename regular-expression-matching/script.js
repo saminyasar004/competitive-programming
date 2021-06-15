@@ -1,6 +1,6 @@
 /*
  * Title: Regular Expression Matching
- * Description: see README.md file
+ * Description: https://leetcode.com/problems/regular-expression-matching/
  * Author: Samin Yasar
  * Date: 10/February/2021
  * Variable name type: variableName
