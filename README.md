@@ -8,7 +8,6 @@ Here I tried to solve some problem from [Leetcode](https://leetcode.com/), [Code
 [![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-brightgreen)](https://instagram.com/saminyasar04/)
 [![Twitter Follow](https://img.shields.io/badge/Twitter-Follow-brightgreen)](https://twitter.com/SaminYa01891649/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Questions-brightgreen)](https://stackoverflow.com/users/14735945/samin-yasar)
-[![Profile Views](https://komarev.com/ghpvc/?username=saminyasar004&label=Profile%20views&color=brightgreen&style=flat)](https://github.com/saminyasar004/)
 [![Github Follow](https://img.shields.io/github/followers/saminyasar004?label=saminyasar004&style=social)](https://github.com/saminyasar004/)
 
 ## **Completed :**
@@ -29,3 +28,4 @@ Here I tried to solve some problem from [Leetcode](https://leetcode.com/), [Code
 1. **Credit Card Mask**
 1. **Removing Elements**
 1. **Sort Array by Length**
+1. **Validate Credit Card Number**
