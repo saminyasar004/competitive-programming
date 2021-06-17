@@ -32,3 +32,7 @@ Here I tried to solve some problem from [Leetcode](https://leetcode.com/), [Code
 1. **Remove Dupliacte Words**
 1. **Count Characters in Your String**
 1. **Array Diff**
+1. **Capitalize Word**
+1. **Find The Next Perfect Square**
+1. **Vowel Count**
+1. **Cat, Dog Years**
