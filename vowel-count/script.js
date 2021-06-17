@@ -6,14 +6,14 @@
  */
 
 function getCount(str) {
-  var vowelsCount = 0;
   const vowels = ["a", "e", "i", "o", "u"];
-  str.split("").forEach((el) => {
+  const count = str.split("").reduce((acc, el) => {
     if (vowels.includes(el)) {
-      vowelsCount++;
+      acc++;
     }
-  });
-  return vowelsCount;
+    return acc;
+  }, 0);
+  return count;
 }
 
 console.log(getCount("I am a boy!"));
