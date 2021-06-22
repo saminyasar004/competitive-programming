@@ -36,3 +36,4 @@ Here I tried to solve some problem from [Leetcode](https://leetcode.com/), [Code
 1. **Find The Next Perfect Square**
 1. **Vowel Count**
 1. **Cat, Dog Years**
+1. **Ranking Position**
