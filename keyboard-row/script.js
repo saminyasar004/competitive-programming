@@ -1,6 +1,6 @@
 /*
  * Title: Keyboard Row
- * Description: Find word match in keyboard row
+ * Description: https://leetcode.com/problems/keyboard-row/
  * Author: Samin Yasar
  * Date: 19/July/2021
  */
@@ -13,9 +13,6 @@ function findWords(words) {
     const wordMaps = ["qwertyuiop", "asdfghjkl", "zxcvbnm"];
     let results = [];
     let currentCharacterRow = -1;
-    let firstRowHit = false;
-    let secondRowHit = false;
-    let thirdRowHit = false;
     words.forEach((word) => {
         firstRowHit = secondRowHit = thirdRowHit = false;
         currentCharacterRow = -1;
@@ -24,20 +21,6 @@ function findWords(words) {
                 currentCharacterRow = wordMaps.findIndex(
                     (el) => el === wordMap
                 );
-                switch (currentCharacterRow) {
-                    case 0:
-                        firstRowHit = true;
-                        break;
-                    case 1:
-                        secondRowHit = true;
-                        break;
-                    case 2:
-                        thirdRowHit = true;
-                        break;
-                    default:
-                        firstRowHit = secondRowHit = thirdRowHit = false;
-                        break;
-                }
             }
         });
         if (
